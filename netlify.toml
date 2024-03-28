@@ -1,3 +1,4 @@
+[build.environment]
 HUGO_VERSION = "0.124.0"
 DART_SASS_VERSION = "1.72.0"
 TZ = "America/Los_Angeles"
