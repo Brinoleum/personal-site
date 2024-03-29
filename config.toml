@@ -23,7 +23,7 @@ pygmentsStyle = "native"
 # This links to content within the content/post/ folder
 [[menu.main]]
     name = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = -150
 
 # This links to the page about.md
@@ -41,7 +41,7 @@ pygmentsStyle = "native"
     authorName = "Brian Chu"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "img/main.jpg"
+        name = "img/pikachu.jpg"
         # Add an alt description for the image
         alt = "Profile picture"
 
