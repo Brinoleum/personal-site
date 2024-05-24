@@ -4,70 +4,16 @@ hideAuthor: true
 hideDate: true
 hideLastMod: true
 ---
-# CV
 
-- Email: [brianmchu42@gmail.com](mailto:brianmchu42@gmail.com)
-- Location: Irvine, California
-- Website: [brianmchu.me](https://brianmchu.me/)
-- GitHub: [brinoleum](https://github.com/brinoleum)
+## Professional things
+Here's a link to [my CV](https://github.com/Brinoleum/curriculum-vitae/releases/latest/download/Brian_Chu_CV.pdf) and [my Github](https://github.com/Brinoleum).
 
+## Personal interests
+### Photography
+I enjoy film photography and shoot on a variety of formats (35mm, 120, instant) with a variety of cameras (Olympus OM-1, Mamiya C33, Holga, Instax, Polaroid). No preference for film stock other than whichever's the cheapest, and I also don't do home development or editing (since red-green colorblindness is a pain). Basically, I just enjoy the process of taking photos, not the end results. That being said, one of my photos was featured in my friend Anna's zine, Plastic Perspective, focusing on photography with the cult classic Holga camera. (it's in issue 4 and you can buy it [here](https://www.etsy.com/listing/1513613947/plastic-perspective-issue-4)!)
 
-# Education
+### Cooking
+I also enjoy learning how to cook new recipes! Recent favorites include: broiled black cod in a soy glaze and penne alla vongole. I've also just got my hands on an Instant Pot and have been using it to make lots of yogurt, among other foods you can pressure cook.
 
-## University of California, Irvine, BS in Major in Computer Science, Minor in Linguistics
-
-- Sept. 2018 to June 2022
-- Phi Beta Kappa
-- Senior thesis advisor: Dr. Richard Futrell
-
-# Experience
-
-## Amazon Web Services, Software Development Engineer
-
-- Sept. 2022 to Nov. 2023
-- Seattle, WA
-- Ported customer callflow execution engine for Amazon Connect, the call center as a service
-- Maintained high service availability during oncall shifts
-
-## Amazon Web Services, SDE Intern
-
-- June 2021 to Sept. 2021
-- Seattle, WA
-- Implemented custom callflow module support for Amazon Connect for intern project
-- Drafted design documents and underwent review process with team
-
-## Northrop Grumman, Software Engineering Intern
-
-- June 2020 to Sept. 2020
-- Redondo Beach, CA
-- Developed user-facing features and design improvements for a satellite hardware control interface
-- Implemented hardware API interface
-
-# Publications
-
-## Generating natural-language descriptions of code with the GPT language model 
-- June 2022 - Brian Chu
-
-# Projects
-
-## Gregg shorthand translator
-
-- 2021
-- Implemented a convolutional neural network architecture to transcribe images of Gregg shorthand to English text
-- Improved on a previous paper's results by revising model to use a syllabic dictionary instead of directly translating to English
-
-## MedAI Jam hackathon
-
-- 2019
-- Developed an Android app to diagnose glaucoma using computer vision
-- Trained a model using a dataset of images of retinas
-- Won first place in the hackathon
-
-# Technologies
-
-- Languages: C/C++, Java, Javascript/Typescript, Python
-- Machine Learning: GPT, Tensorflow, Pytorch
-# Additional Experience And Awards
-
-- Eagle Scout: Earned the rank of Eagle Scout after leading multiple service projects in support of my community
-- College Radio: Hosted a radio show for KUCI 88.9 FM
+### Crosswords
+I have a >400 day streak (and counting!) on the NYT crossword, not including the time period from before I had a NYT Games subscription and did the syndicated crossword from the Seattle Times. Personal goal: compete in the American Crossword Puzzle Tournament at Stamford, CT and meet Will Shortz. Also a big fan of the UK cryptic crosswords from The Guardian, but have never been able to completely solve one (yet!)
