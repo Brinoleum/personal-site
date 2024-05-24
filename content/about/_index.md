@@ -6,7 +6,8 @@ hideLastMod: true
 ---
 
 ## Professional things
-Here's a link to [my CV](https://github.com/Brinoleum/curriculum-vitae/releases/latest/download/Brian_Chu_CV.pdf) and [my Github](https://github.com/Brinoleum).
+- [my CV](https://github.com/Brinoleum/curriculum-vitae/releases/latest/download/Brian_Chu_CV.pdf)
+- [my Github](https://github.com/Brinoleum)
 
 ## Personal interests
 ### Photography
