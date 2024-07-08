@@ -5,7 +5,8 @@ languageCode = "en-us"
 # Website title
 title = "Brian Chu's homepage"
 # Theme used
-theme = "astatine"
+theme = ["hugo-embed-pdf-shortcode", "astatine"]
+enableInlineShortcodes = true
 
 rssLimit = 10
 paginate = 10
@@ -31,6 +32,11 @@ pygmentsStyle = "native"
     name = "About"
     url = "/about/"
     weight = -110
+
+[[menu.main]]
+    name = "CV"
+    url = "/CV/"
+    weight = -100
 
 # Site wide params and SEO
 [params]

@@ -5,10 +5,6 @@ hideDate: true
 hideLastMod: true
 ---
 
-## Professional things
-- [my CV](https://github.com/Brinoleum/curriculum-vitae/releases/latest/download/Brian_Chu_CV.pdf)
-- [my Github](https://github.com/Brinoleum)
-
 ## Personal interests
 ### Photography
 I enjoy film photography and shoot on a variety of formats (35mm, 120, instant) with a variety of cameras (Olympus OM-1, Mamiya C33, Holga, Instax, Polaroid). No preference for film stock other than whichever's the cheapest, and I also don't do home development or editing (since red-green colorblindness is a pain). Basically, I just enjoy the process of taking photos, not the end results. That being said, one of my photos was featured in my friend Anna's zine, Plastic Perspective, focusing on photography with the cult classic Holga camera. (it's in issue 4 and you can buy it [here](https://www.etsy.com/listing/1513613947/plastic-perspective-issue-4)!)
