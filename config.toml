@@ -27,16 +27,16 @@ pygmentsStyle = "native"
     url = "/posts/"
     weight = -150
 
+[[menu.main]]
+    name = "Travelogues"
+    url = "/travel/"
+    weight = -140
+
 # This links to the page about.md
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = -110
-
-[[menu.main]]
-    name = "CV"
-    url = "/CV/"
-    weight = -100
 
 # Site wide params and SEO
 [params]
