@@ -23,7 +23,7 @@ personal_title: "computation enthusiast and language geek"
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-# email: "brianmchu42@gmail.com"
+email: "brianmchu42@gmail.com"
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg: 
 #   dark: /img/dark_email.png
@@ -61,4 +61,4 @@ publications:
 
 # Bio
 
-I am a researcher in the field of artificial intelligence and computational linguistics, with a focus in large language models and AI alignment. I completed a BS in Computer Science with a concentration in Intelligent Systems and minor in Linguistics at the University of California, Irvine. Previously, I have conducted research with the Language Sciences department for my senior thesis, supervised by Dr. Richard Futrell. In addition, I am a former software engineer at Amazon Web Services.
+I am a researcher in the field of bioinformatics with a focus in large language models and genomics. I completed a BS in Computer Science with a concentration in Intelligent Systems and minor in Linguistics at the [University of California, Irvine](https://uci.edu). Previously, I worked with GPT-Codex for my senior thesis on code comprehension, supervised by [Dr. Richard Futrell](https://sites.socsci.uci.edu/~rfutrell). Currently, I am with the [Computational Neurobiology Laboratory](https://cnl.salk.edu) at the Salk Institute, led by Dr. Terry Sejnowski and Dr. Margot Wagner.
