@@ -16,7 +16,8 @@ I enjoy film photography and shoot on a variety of formats (35mm, 120, instant) 
 I also enjoy learning how to cook new recipes! Recent favorites include: broiled black cod in a soy glaze and penne alla vongole. I've also just got my hands on an Instant Pot and have been using it to make lots of yogurt, among other foods you can pressure cook.
 
 ### Crosswords
-I have a >550 day streak (and counting!) on the NYT crossword, not including the time period from before I had a NYT Games subscription and did the syndicated crossword from the Seattle Times. Personal goal: compete in the American Crossword Puzzle Tournament at Stamford, CT and meet Will Shortz. Also a big fan of the UK cryptic crosswords from The Guardian, but have never been able to completely solve one (yet!)
+I have a >800 day streak (and counting!) on the NYT crossword, not including the time period from before I had a NYT Games subscription and did the syndicated crossword from the Seattle Times. ~~Personal goal: compete in the American Crossword Puzzle Tournament at Stamford, CT and meet Will Shortz.~~ Also a big fan of the UK cryptic crosswords from The Guardian, but have never been able to completely solve one (yet!)
 
+UPDATE: I took part in the 2025 online edition of the ACPT and got first place in the rookie (first time) and junior (<= 25yo) divisions (standings [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTld5MWv4u309DyVCqpl0RisuljDBBSELp2eS337FNsCFnaRrDfN-MLlo3SGrNyVpr5lmVpXYWbWVM4/pubhtml#))! Also vaguely amusing but mostly embarrassing is the fact that I couldn't make it to the IRL tournament so I emailed the directors and Mr. Shortz got cc'ed into the email chain to process the refund. Welp, a bucket list item crossed off is a bucket list item crossed off.
 
 {{< figure src="/img/kuci-cover.jpg" title="oh look it's me! second from bottom on the left" width="auto" >}}
