@@ -8,8 +8,9 @@ title = "Brian Chu's homepage"
 theme = ["hugo-embed-pdf-shortcode", "astatine"]
 enableInlineShortcodes = true
 
-rssLimit = 10
 paginate = 10
+
+disableKinds = ["RSS"]
 
 # Code highlighting
 pygmentsCodefences = true
