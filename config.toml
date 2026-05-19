@@ -1,7 +1,7 @@
 # The URL from which the site will be served
 baseurl = "https://brianmchu.me"
 # Language used
-languageCode = "en-us"
+locale = "en-us"
 # Website title
 title = "Brian Chu's homepage"
 # Theme used
