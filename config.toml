@@ -28,10 +28,6 @@ pygmentsStyle = "native"
     url = "/posts/"
     weight = -150
 
-[[menu.main]]
-    name = "Travelogues"
-    url = "/travel/"
-    weight = -140
 
 # This links to the page about.md
 [[menu.main]]
