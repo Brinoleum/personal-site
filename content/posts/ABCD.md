@@ -4,6 +4,14 @@ date: 2026-05-21T13:41:16-07:00
 draft: true
 ---
 
+## Intro
+
+Can a foundation model trained on raw DNA predict how severely a teenager will present with ADHD — and if so, what is it actually looking at?
+
+That's the question driving this project. Genomic language models have shown they can tell species apart from sequence alone — human vs. worm, human vs. other primates — which is really just classification on sequence data. The leap I'm interested in is whether the same machinery can classify *within* a species: same genome at the species level, different phenotypes at the individual level. ADHD is a reasonable target. It's heritable, GWAS has surfaced plenty of associated loci, and there's a growing body of work pointing at mitochondrial dysfunction as one of the mechanistic threads. Most of that evidence comes from SNP-by-SNP statistical analysis; a foundation model gets to see the whole sequence at once, which in principle lets it pick up on combinations and context that single-locus methods miss. Whether it actually does is the open question.
+
+A note on scope: this is a writeup of the methods, not the results. The model is still training. What follows is the setup — why a state-space model over a transformer, why Caduceus specifically, how I rebuilt per-subject genomes from PLINK files against hg19, and the data-augmentation problem that doesn't have a clean answer when your "language" is DNA.
+
 ## Background
 
 ### Genomic language modeling
