@@ -1,5 +1,5 @@
 ---
-title: "ABCD (better title TBD)"
+title: "Attention is not all you need: SSM-based classification of ADHD genotypes"
 date: 2026-05-21T13:41:16-07:00
 draft: true
 ---
