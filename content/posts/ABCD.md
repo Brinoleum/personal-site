@@ -1,7 +1,6 @@
 ---
 title: "Attention is not all you need: SSM-based classification of ADHD genotypes"
 date: 2026-05-21T13:41:16-07:00
-draft: true
 ---
 
 ## Intro
@@ -105,6 +104,3 @@ Whichever method we end up reaching for, the comparison against known biology is
 A second direction is to scale beyond the regions of the genome we have been working with so far. The current implementation operates on hardcoded chromosomal regions, with mtDNA as the starting point given the mitochondrial-dysfunction hypothesis, but the larger nuclear chromosomes contain many of the loci that GWAS has surfaced as associated with ADHD, and our broader interest is in the nuclear regions associated with mitochondrial function as well. Extending the pipeline to cover those regions in a more principled way — and eventually to operate over multiple regions of interest in parallel — is the obvious next direction once the mtDNA-only setup is yielding stable results.
 
 Finally, although ADHD is the specific diagnosis we have been targeting in this writeup, the KSADS questionnaire covers a wide range of other conditions, including depression, anxiety, and other clinically assessed mental health diagnoses. Because the pipeline is parameterized by the choice of KSADS subscale as the prediction target, repointing it at a different diagnosis is, in principle, a matter of swapping out the phenotype column and re-training. The methods described in this post are therefore not specific to ADHD; they are a general recipe for fine-tuning a genomic foundation model on a clinically assessed phenotype, and ADHD is simply the first instance of that recipe we have been working through.
-
-#### Citations
-TODO: collate Zotero list
